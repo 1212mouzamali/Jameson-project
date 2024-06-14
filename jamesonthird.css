@@ -1,0 +1,15 @@
+.main{
+   background-color:  rgba(21, 71, 52, 1)
+}
+.first-check{
+    font-size: calc(0.5vw + 5px);
+}
+.second-check{
+    font-size: calc(0.5vw + 5px);
+}
+.third-check{
+    font-size: calc(0.5vw + 5px);
+}
+.fourth-check{
+    font-size: calc(0.5vw + 5px);
+}

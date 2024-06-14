@@ -1,0 +1,272 @@
+
+@font-face{
+    font-family: jj2;
+    src: url(../fonts/JJ2Rg-Bold/JJ2Rg-Bold.ttf);
+
+}
+@font-face {
+    font-family: jj2-bk;
+    src: url(../fonts/jj2-bk.otf);
+}
+@font-face {
+    font-family: jj2-lt;
+    src: url(../fonts/jj2\ lt.otf);
+}
+/* jameson first prtion of jameson bottle starts here
+jameson first prtion of jameson bottle starts here */
+.main-div{
+    position: relative;
+}
+.nav-bar{
+    background: linear-gradient(180deg, #154734 0%, rgba(21, 71, 52, 0) 100%);
+    position: absolute;
+    width: 90%;
+    position: fixed; 
+}
+.jameson-logo{
+    width: 30%;
+    }
+    .wtc{
+        width: 20%;
+        height: 84%;
+    }
+    .jameson-logo-first{
+        width: 15%;
+        height: 40%;
+    }
+
+
+.nav-links ul{
+    list-style: none;
+    display: flex;
+}
+.nav-links ul a img{
+    width: 100%;
+    
+}
+.other-anchors{
+    border-left:3px solid rgba(0, 119, 73, 1);
+    
+}
+.below-images{
+    position: absolute;
+    top: 70%;
+    left: 14%;
+    width: 90%;
+}
+.nav-bottom-img{
+    position: absolute;
+    top: 88%;
+    z-index: 5;
+}
+.-image-footer{
+    position: absolute;
+    top: 100%;
+}
+/* jameson first prtion of jameson bottle ends here
+jameson first prtion of jameson bottle ends here */
+
+/* jameson mid portion starts here */
+/* jameson mid portion starts here */
+
+.mid-section{
+    position: relative;
+ }
+ .video-bottom{
+     position: absolute;
+     top: 82%;
+     z-index: 1;
+ }
+ .for-heading-para{
+    position: absolute;
+    z-index: 7;
+    left: 10%;
+    bottom: 1px;
+ }
+ .mid-head{
+    font-family: jj2;
+    font-size: calc(2vw + 5px);
+    color:rgba(241, 230, 178, 1);
+    
+
+ }
+ .mid-para{
+    font-family: jj2;
+    font-size: calc(1vw + 3px);
+    color: rgba(241, 230, 178, 1);
+    
+
+ }
+
+
+
+/* jameson mid portion ends here */
+/* jameson mid portion ends here */
+
+/* kv portion starts here
+kv portion starts here
+kv portion starts here */
+.main-kv{
+    position: relative;
+}
+.topkv{
+    position: absolute
+}
+.middle-divs{
+    position: absolute;
+    top: 23%;
+    left: 15%;
+    color: white;
+}
+.left-first-para{
+    font-family: jj2;
+    font-size:calc(1.5vw + 5px) ;
+    font-weight: 700;
+}
+.left-second-para{
+    font-family: jj2;
+    font-size:calc(2vw + 5px) ;
+    font-weight: 800;
+}
+.left-third-para{
+    font-family: jj2;
+    font-size:calc(1vw + 5px) ;
+    font-weight: 600;
+}
+.left-button{
+
+    font-size:calc(2.5vw + 10px);
+    font-weight: 500;
+}
+.bottom-kv{
+    position: absolute;
+    top: 80%;
+    
+}
+.upper-footer-img{
+    position: absolute;
+    bottom: -14%;
+ 
+}
+
+
+
+/* kv portion starts here
+kv portion starts here
+kv portion starts here */
+
+
+/* footer section starts here
+footer section starts here */
+.craft{
+    position: absolute;
+    left: 54%;
+    bottom: -35%;
+    z-index: 20;
+    
+}
+
+.top-footer{
+    text-align: right;
+    
+}
+.j-events{
+    font-family: jj2;
+    font-size: calc(2vw + 5px);
+    color: rgba(241, 230, 178, 1);
+ 
+    margin-top: 20%;
+}
+.j-events-para{
+    line-height: 25px;
+    font-family: jj2-lt;
+    font-size: calc(1vw + 5px);
+    color: rgba(241, 230, 178, 1);
+    
+}
+
+.footer{
+    background-color: rgba(21, 71, 52, 1);
+    position: relative;
+    
+}
+.first{
+    font-family: jj2;
+    font-size: calc(1vw + 5px);
+    color:  rgba(241, 230, 178, 1);
+
+}
+.second{
+    font-family: jj2-lt;
+    padding: 2%;
+    font-size: calc(0.8vw + 5px);
+    color: rgba(21, 71, 52, 1);   
+    background-color:rgba(241, 230, 178, 1);
+    border-radius: 5px;
+
+}
+.third{
+    font-family: jj2;
+    font-size: calc(1vw + 5px);
+    color: rgba(241, 230, 178, 1);
+
+}
+.fourth{
+    font-family: jj2-lt;
+    padding: 2%;
+    font-size: calc(0.8vw + 5px);
+    color:  rgba(21, 71, 52, 1);   
+    background-color: rgba(241, 230, 178, 1);
+    border-radius: 5px;
+}
+.fifth{
+    font-family: jj2;
+    font-size: calc(1vw + 5px);
+    color:  rgba(241, 230, 178, 1);    
+}
+.nsc{
+    margin-top: 20%;
+}
+.first-footer{
+    border-top: 3px solid white;
+    
+}
+.left-side{
+position: absolute;
+top: 85%;
+left: 1%;
+}
+.side-mic{
+position: absolute;
+top: 1px;
+left: 79%;
+}
+/* footer page starts header */
+/* footer page starts header */
+.footer{
+    position: relative;
+}
+.first-page-footer{
+ background: linear-gradient(180deg, rgba(0, 119, 73, 0) 0%, #007749 100%);
+ padding-top: 5%;
+ padding-left: 12%;
+ 
+    
+}
+.footer-list ul li{
+list-style: none;
+margin: 2%;
+}
+.footer-line{
+    color: rgba(241, 230, 178, 1);
+    font-family: jj2-lt;
+    font-size: calc(1vw + 5px);
+
+}
+.footer-jameson-img{
+    margin-left: 40%;
+    margin-bottom: 5%;
+}
+
+
+

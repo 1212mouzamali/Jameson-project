@@ -1,0 +1,447 @@
+@font-face {
+    font-family: jj2;
+    src: url(/fonts/JJ2Rg-Bold/JJ2Rg-Bold.ttf);
+}
+@font-face {
+    font-family: jj2-lt;
+    src: url(/fonts/jj2\ lt.otf);
+}
+@font-face {
+    font-family: jj2-bk;
+    src: url(/fonts/jj2-bk.otf);
+}
+/* First portion starts here */
+/* First portion starts here */
+.timer {
+
+    text-align: center;
+    width: 20%;
+    position: absolute;
+    left: 80%;
+    top: 6%;
+}
+
+.digits {
+    
+    margin-left:-8%;
+    margin-top: -3%;
+}
+
+.digits p {
+    margin-left: 4%;
+
+
+}
+
+.start {
+    font-family: jj2;
+    font-size: calc(2vw + 1px);
+   
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+.twenty-five {
+    font-family: jj2;
+    font-size: calc(2vw + 1px);
+    color: white;
+
+}
+
+.ten {
+    font-family: jj2;
+    font-size: calc(2vw + 1px);
+    color: white;
+}
+
+.forty {
+    font-family: jj2;
+    font-size: calc(2vw + 1px);
+    color: white;
+}
+
+.colon {
+    font-family: jj2;
+    font-size: calc(2vw + 1px);
+    color: white;
+}
+
+.sixteen {
+    font-family: jj2;
+    font-size: calc(2vw + 1px);
+    color: white;
+}
+
+.time-parameters {
+    font-family: jj2-lt;
+    color: white;
+    font-size: calc(0.5vw + 1px);
+    margin-left: -4%;
+    margin-top: -6%;
+
+}
+
+.time-parameters p {
+    margin-left: 10%;
+}
+
+.dikies-logo {
+    position: absolute;
+
+}
+.first-image-footer{
+    position: absolute;
+    top: 90%;
+}
+
+
+/* First portion ends here */
+/* First portion ends here */
+
+.content {
+    background-color: rgba(21, 71, 52, 1);
+    width: 100%;
+
+
+}
+
+.register-now {
+    background-color: rgba(21, 71, 52, 1);
+    border: none;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    
+
+}
+.main-para{
+    margin-top: 5%;
+    z-index: 10;
+}
+
+.first-para {
+    font-family: jj2;
+    display: flex;
+    text-align: center;
+    font-weight: 700;
+    justify-content: center;
+    font-size: calc(1.5vw + 1px);
+    margin-top: 10%;
+}
+
+.launch-party {
+    background-color: rgba(163, 89, 37, 1);
+    color: rgba(241, 230, 178, 1);
+    font-family: jj2;
+    display: flex;
+    justify-content: center;
+    font-size: calc(2.5vw + 1px);
+    word-spacing: 10px;
+    padding: 1%;
+}
+
+.date {
+    box-sizing: border-box;
+    font-family: jj2;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(163, 89, 37, 1);
+    margin-top: 20px;
+    padding: 2% 1% 1% 17%;
+    font-size: calc(1.8vw + 2px);
+}
+.doors{
+    font-family: jj2-lt;
+    font-size: calc(1.3vw + 2px);
+    padding: 1%;
+    
+}
+
+.date ul {
+    list-style: none;
+    display: flex;
+}
+
+.date ul li {
+    margin-left: 2%;
+}
+
+
+
+.for-button {
+    position: relative;
+}
+.featuring{
+    font-size: calc(1.5vw + 1px);
+    font-family: jj2-lt;
+    padding-left: 6%;
+}
+/* images grid starts here */
+/* images grid starts here */
+.images-grid{
+    position: relative;
+    margin-top: 25%;
+}
+.lapsap{
+    position: relative;
+    bottom:85%;
+    left:17%;
+}
+
+.jovyn{
+    position: absolute;
+    bottom: 84%;
+    left:39% ;
+}
+.ashley{
+    position: absolute;
+    top:20%;
+    left:21%;
+}
+.mr-yang{
+    position: absolute;
+    top: 20%;
+    left: 39%;
+}
+.danshiv{
+    position: absolute;
+    bottom: 42%;
+    left: 59%;
+}
+/* images grid ends here */
+/* images grid ends here */
+
+/*customization starts here 
+ customization starts here */
+
+.customization{
+    margin-top: 10%;
+    position: relative;
+}
+.step1 {
+    font-size: calc(1.8vw + 2px);
+    color: white;
+    font-weight: 700;
+
+}
+
+.step1-para {
+    font-size: calc(1.3vw + 2px);
+    color: white;
+    font-weight: 700;
+}
+
+.step2 {
+    font-size: calc(1.8vw + 2px);
+    color: white;
+    font-weight: 700;
+
+}
+
+.step2-para {
+    font-size: calc(1.3vw + 2px);
+    color: white;
+    font-weight: 700;
+    word-spacing: 5%;
+}
+
+.step-background {
+    background-color: rgba(163, 89, 37, 1);
+
+}
+
+.customization-step {
+    font-size: calc(3vw + 10px);
+    color: white;
+    font-weight: 700;
+
+}
+.jbag{
+    position: absolute;
+   left: 58%;
+    z-index: 2;
+}
+/*customization ends here 
+ customization  ends here */
+
+ /* edition portion starts here
+ edition portion starts here */
+
+.edition{
+    margin-top: 15%;
+}
+.limited-edition {
+    color: white;
+    font-size: calc(3vw + 8px);
+    font-weight: 700;
+}
+
+.limited-date {
+    color: white;
+    font-size: calc(2vw + 10px);
+    background: rgba(35, 31, 32, 1);
+    border-radius: 3%;
+    padding-left: 3%;
+
+}
+
+.limited-find {
+    font-family: jj2;
+    color: white;
+    font-size: calc(1.3vw + 10px);
+    padding-left: 5%;
+}
+
+
+
+
+
+.outlets {
+    background-color: white;
+    border-radius: 10px;
+    padding: 1%;    
+}
+
+.list-outlets {
+    color: rgba(163, 89, 37, 3);
+    font-size: calc(1.5vw + 5px);
+    font-weight: 800;
+    
+    
+}
+
+.outlets ul {
+    list-style: none;
+}
+
+.outlets ul li .poles {
+    width: 90%;
+    color: white;
+    background: rgba(163, 89, 37, 3);
+    border: none;
+    padding: 2%;
+    font-size: calc(1vw + 5px);
+    border-radius: 10px;
+    
+
+}
+.shop{
+    font-family: jj2;
+    text-align: center;
+    border-radius: 5px;
+    color: rgba(163, 89, 37, 1);
+    font-weight: 900;
+    font-size:calc(0.8vw + 5px);
+    
+}
+/* modals starts here */
+/* modals starts here */
+.central-content{
+    border: 2px solid white !important;
+    font-family: jj2-lt;
+    font-size: calc(1.3vw + 5px);
+    background-color:rgba(163, 89, 37, 1) !important;
+    color: white !important;
+    text-align: center;
+}
+.for-modal-header{
+    font-family: jj2;
+    font-size:calc(1.8vw + 5px);
+    padding-left: 37%;
+    
+}
+/* modals ends here */
+/* modals ends here */
+
+
+/* 
+<!-- win portion starts here -->
+<!-- win portion starts here --> */
+.win{
+       padding: 20%;
+}
+.how-to-win {
+    font-family: jj2;
+    color: white;
+    font-size: calc(2.5vw + 10px);
+    width: 66%;
+    
+
+}
+
+.win-statement {
+    font-family: jj2-lt;
+    color: white;
+    font-size: calc(1.3vw + 10px);
+width: 50%;
+    
+}
+
+.win-images {
+    position: relative;
+}
+
+.win-green-shirt {
+    position: absolute;
+    top: 40%;
+    left: 27%;
+
+
+}
+
+.win-crimson-shirt {
+    position: absolute;
+    left: 47%;
+    top: 31%;
+}
+
+.win-black-upper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.win-button {
+    position: absolute;
+    left: 30%;
+}
+
+.win-images-text {
+    font-size: calc(1vw + 10px);
+    color: white;
+    width: 78%;        
+    position: absolute;
+    top: 22%;
+    left: 21%;
+    padding-left: 4%;
+    font-weight: 700;
+    background-color: rgba(163, 89, 37, 3);
+}
+
+.win-bottle {
+    position: absolute;
+    top: 13%;
+    left: 7%;
+    
+    
+}
+
+.main-steps{
+   
+    border-top: 2px solid white;   
+}
+
+
+.step-first-para{
+    font-size: calc(1vw + 5px) ;
+    color: white;
+    font-family: jj2-lt;
+    margin-top: 1%;
+}
+
+/* footer section starts here */
+/* footer section starts here */
+/* footer section starts here */
+.footer-para{
+    font-family: jj2;
+    font-size: calc(1vw + 3px);
+    color: white; 
+
+}
